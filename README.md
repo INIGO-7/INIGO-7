@@ -9,12 +9,6 @@
   </a></h3>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,react,typescript,javascript,django,flask,selenium,firebase,aws,azure,docker,git,github,vscode,figma,linux,bash,python,pytorch,sklearn,opencv,mysql,r,c,java" />
-</div>
-<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=inigo-7&show_icons=true&locale=en&theme=react" alt="inigo-7" width="420" style="margin-right: 20px;" />
