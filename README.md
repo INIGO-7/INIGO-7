@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/INIGO-7/INIGO-7/assets/58185185/dca0e551-fa67-49f7-80db-751d425beaed" alt="profile image">
+  <img src="https://github.com/INIGO-7/INIGO-7/assets/58185185/7338357a-b899-4898-aef5-c99c19bee568" alt="profile image">
 </div>
 <h1 align="center">You've reached Iñigo Fernández's profile 🥳</h1>
 <h3 align="center">Double Bachelor's Degree on Computer Engineering + Data Science and AI</h3>
