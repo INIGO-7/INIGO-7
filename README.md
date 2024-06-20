@@ -1,6 +1,6 @@
 <h1 align="center">You've reached Iñigo Fernández's profile 🥳</h1>
 <h3 align="center">Double Bachelor's Degree on Computer Engineering + Data Science and AI</h3>
-<img align="right" src="https://github.com/INIGO-7/INIGO-7/assets/58185185/887ede2b-4ae9-4276-b1ef-38af64fbddb5" alt="yo" width="400">
+<img align="right" src="https://github.com/INIGO-7/INIGO-7/assets/58185185/56fd20d8-67f5-40de-bb6c-8afbc12afd37" alt="yo" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inigo-7&label=Profile%20views&color=0e75b6&style=flat" alt="inigo-7" /> </p>
 
 <h3 align="left">Connect with me:</h3>
