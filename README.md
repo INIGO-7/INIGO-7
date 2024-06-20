@@ -17,6 +17,6 @@
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=inigo-7&show_icons=true&locale=en&theme=react" alt="inigo-7" style="margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inigo-7&theme=react" alt="inigo-7" style="margin-left: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inigo-7&show_icons=true&locale=en&theme=react" alt="inigo-7" width="350" style="margin-right: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inigo-7&theme=react" alt="inigo-7" width="350" style="margin-left: 20px;" />
 </div>
