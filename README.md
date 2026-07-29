@@ -8,9 +8,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i%c3%b1igo-fern%c3%a1ndez-sope%c3%b1a-090564194/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjezq2uo5q06xgn%2bjdjv5na%3d%3d" height="30" width="40" />
   </a></h3>
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=inigo-7&show_icons=true&locale=en&theme=react" alt="inigo-7" width="420" style="margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inigo-7&theme=react" alt="inigo-7" width="420" style="margin-left: 20px;" />
-</div>
